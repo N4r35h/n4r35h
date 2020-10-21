@@ -1,5 +1,5 @@
 ### Hi there 👋
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ... SAMP Discord bot Filterscript
 - 🌱 I’m currently learning ...
@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord: N4r35h#4097
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 
