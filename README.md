@@ -12,6 +12,7 @@
 <h3 align="left">Tools</h3>
 <p align="left"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="lua" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="lua" width="40" height="40"/>    
 </p>
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
