@@ -1,5 +1,5 @@
 <h1 align="center">I'm N4r35h</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate developer</h3>
 <h3 align="center">Funtional, compiled programming lover</h3>
 
 <h3 align="left">Languages</h3>
